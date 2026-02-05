@@ -157,4 +157,7 @@ src/
 ├── App.css             # App layout styles
 ├── main.tsx            # Vite entry point
 └── index.css           # Global styles
+
+<img width="1513" height="839" alt="image" src="https://github.com/user-attachments/assets/70982986-43b1-4773-91b3-88360c441f6d" />
+
 ```
